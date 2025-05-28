@@ -1,4 +1,4 @@
-### 🚀 Project Title: **Interactive Sales Performance Dashboard with Dash and Plotly**
+# 🚀 Project Title: **Interactive Sales Performance Dashboard with Dash and Plotly**
 
 ### 📍 Project Description:
 
